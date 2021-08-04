@@ -1,4 +1,4 @@
-import { world } from "./message.js";
+// import { world } from "./message.js";
 
-const hello = "hello " + world;
+const hello = "hello ";
 export default hello;

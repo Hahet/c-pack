@@ -4,6 +4,7 @@ test.html 测试用，可以浏览器打开测试
 builder.js 简易 webpack 核心代码, 可以 node 直接运行， 也可以使用 vscode debug
 bundle.js 打包之后的代码， test.html 中引用
 app.js 入口 js
+其他文件：讲解、测试用的
 
 ## 前端模块化思路
 

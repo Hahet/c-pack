@@ -15,7 +15,7 @@
       "type": "node",
       "request": "launch",
       "name": "bundler",
-      "program": "${workspaceFolder}/bundler.js"
+      "program": "${workspaceFolder}/src/bundler.js"
     },
     {
       "type": "node",
